@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.conatiner {
+  height: 100vh;
+  width: 100vw;
+  padding: 20px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+}
+.PLANETS {
+  color: #05acff;
+  text-align: center;
+}
